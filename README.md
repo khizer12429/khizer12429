@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/{your-username}/{repo-name}/{branch-name}/path/to/banner.png" alt="Banner">
+<img src="https://raw.githubusercontent.com/khizer12429/khizer12429/main/linked-in-banner.png" alt="Banner" style="width:100%; max-width:1000px;"/>
 </p>
 
 <h1 align="center">
@@ -52,9 +52,9 @@
 <div align="center">
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saifkhan2002&show_icons=true&theme=radical" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifkhan2002&theme=radical" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifkhan2002&layout=compact&theme=radical" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khizer12429&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khizer12429&theme=radical" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khizer12429&layout=compact&theme=radical" height="200" />
   
 </p>
 </div>
