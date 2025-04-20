@@ -64,7 +64,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=KhizerFarooq&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" height="250"> 
+ <img src="https://github-profile-trophy.vercel.app/?username=khizer12429&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" height="250"> 
 </p>
 
 ## 🐍 Contribution Graph
@@ -75,8 +75,8 @@
 
 <div align="center">
 
-[![Friends Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=KhizerFarooq&repo=Friends-Portfolio&theme=radical)](https://github.com/KhizerFarooq/Friends-Portfolio)
-[![React Project](https://github-readme-stats.vercel.app/api/pin/?username=KhizerFarooq&repo=your-react-project&theme=radical)](https://github.com/KhizerFarooq/your-react-project)
+[![Friends Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=khizer12429&repo=Friends-Portfolio&theme=radical)](https://github.com/KhizerFarooq/Friends-Portfolio)
+[![React Project](https://github-readme-stats.vercel.app/api/pin/?username=khizer12429&repo=your-react-project&theme=radical)](https://github.com/KhizerFarooq/your-react-project)
 
 </div>
 
